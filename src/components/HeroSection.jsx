@@ -8,7 +8,7 @@ const HeroSection = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0">
         <Image
-          src="/123 - copy.png"
+          src="/aggarwal-hero.png"
           alt="Modern Hospital Building"
           fill
           priority
