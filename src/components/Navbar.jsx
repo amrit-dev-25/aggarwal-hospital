@@ -58,7 +58,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <a href="/" className="flex items-center gap-3">
-              <div className="w-35 h-35   md:w-65 md:h-65 relative">
+              <div className="w-45 h-45   md:w-65 md:h-65 relative">
                 <Image
                   src="/Aggarwal-logo.png"
                   alt="MediCare Logo"
