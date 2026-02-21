@@ -60,7 +60,7 @@ const Navbar = () => {
             <a href="/" className="flex items-center gap-3">
               <div className="w-35 h-35   md:w-65 md:h-65 relative">
                 <Image
-                  src="/aggarwal-logo.png"
+                  src="/Aggarwal-logo.png"
                   alt="MediCare Logo"
                   fill
                   className="object-contain"
